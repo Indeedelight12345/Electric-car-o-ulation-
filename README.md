@@ -164,7 +164,7 @@ GROUP BY MAKE ;
 ![image](![Screenshot (105) pngruk](https://github.com/Indeedelight12345/Sales_analysis/assets/159934989/95285eeb-6ea5-493e-96d5-808c2eec3abe)
 )
 
- 
+![image]( ![Screenshot (106) pnghe](https://github.com/Indeedelight12345/Electric-car-population/assets/159934989/944be160-03d5-4212-bf00-05c77c57f6cd))
 
 
 
