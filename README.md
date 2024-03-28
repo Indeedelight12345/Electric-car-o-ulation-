@@ -138,6 +138,22 @@ GROUP BY MAKE ;
  GROUP BY CITY, MAKE 
  ORDER BY COUNT(*) DESC;
 ```
+
+
+### Power Bi
+- Load data into Power BI Desktop, dataset is a csv file.
+- Open power query editor & in view tab under Data preview section, check "column distribution", "column quality" & "column profile" options.
+- Also since by default, profile will be opened only for 1000 rows so you need to select "column profiling based on entire dataset".
+- It was observed that in none of the columns errors & empty values were presented
+- in the report view a canvans backgroud is imported into the report view.
+ - Data modeling 
+- calculating some key important metric or quick measure 
+- creating  visual card for  total bev and total phbev
+- create quick measure for bev percentage  and phbev percentage
+- creating  graph such as pie chart, line chart to show the trend  and bar chart 
+- Data modeling with  sales data table
+- calculation of key matric with virtuel card
+
  
 
 
