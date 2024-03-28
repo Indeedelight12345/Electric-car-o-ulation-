@@ -154,6 +154,16 @@ GROUP BY MAKE ;
 - Data modeling with  sales data table
 - calculation of key matric with virtuel card
 
+
+
+### Finding 
+- After thorough analysis of the electric car population dataset, it's evident that urban areas, particularly densely populated cities in the United States, host the majority of electric vehicles and plug-in hybrid electric vehicles. This trend reflects a growing preference for electric vehicles in urban environments, likely influenced by factors such as environmental awareness, government incentives, and improved infrastructure
+
+## Image
+
+![image](![Screenshot (105) pngruk](https://github.com/Indeedelight12345/Sales_analysis/assets/159934989/95285eeb-6ea5-493e-96d5-808c2eec3abe)
+)
+
  
 
 
